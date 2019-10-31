@@ -3,7 +3,8 @@ The directory structure of new project should looks like this:
 ```
 ├── LICENSE
 ├── README.md          <- The top-level README for this project.
-├── data               <- All Dataset in this directory
+├── data               <- All Dataset in this directory (Content will be ignored by git)
+├── logs               <- All logs in this directory (Content will be ignored by git)
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 ├── research           <- Research codebase
 │   └── notebooks      <- Jupyter notebooks. 
